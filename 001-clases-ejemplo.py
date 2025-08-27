@@ -36,3 +36,5 @@ print(f'la especie del animal es: {loro.nombre}')
 gatito.correr()
 perrito.dormir()
 loro.volar()
+
+#anashe texto de prueba
